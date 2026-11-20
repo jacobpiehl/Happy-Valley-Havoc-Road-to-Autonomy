@@ -7,3 +7,7 @@ arduino-XboxSeriesXControllerESP32 (XboxSeriesXControllerESP32_asukiaaa) by asuk
 esp32 by Espressif Systems
 
 CP210x Universal Windows Driver
+
+# Points to Note
+Updated CP210x USB to UART Bridge with the Driver
+Connected an LED to check if it works. Will provide test circuit later.
